@@ -24,9 +24,10 @@ This project analyzes historical price trends, volatility, and moving averages o
 - Daily returns followed a roughly normal distribution with moderate volatility.
 
 ## 5. How to Run
-1.Download or clone this repository.
-2.Install dependencies:
-3.pip install -r requirements.txt
-4.Open analysis.ipynb in Jupyter or VS Code.
-5.Run all cells sequentially.
-6.View the output tables and charts directly in the notebook.
+1. Download or clone this GitHub repository to your local computer.
+2. Open the project folder on your computer.
+3. Make sure Python and pip are installed.
+4. Open a terminal or command prompt inside the project folder.
+5. Install all required libraries by running this command:
+   ```bash
+   pip install -r requirements.txt
