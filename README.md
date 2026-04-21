@@ -31,3 +31,18 @@ This project analyzes historical price trends, volatility, and moving averages o
 5. Install all required libraries by running this command:
    ```bash
    pip install -r requirements.txt
+## 6. Product Link / Demo
+- **GitHub Repository**:
+- **Demo Video**:
+
+## 7. Limitations & Next Steps
+### Limitations
+- This analysis is based only on historical price data, and does not include fundamental factors
+- The moving average strategy used is simple and not optimized for trading performance.
+- The dataset only covers up to 2025, so it cannot reflect future market conditions.
+
+### Next Steps
+- Extend the analysis to include additional technical indicators (e.g., RSI, MACD) to improve trend analysis.
+- Compare AAPL's performance with the S&P 500 index to evaluate its relative strength.
+- Add a simple forecasting model (e.g., moving average forecast) to predict future price movements.
+- Incorporate news sentiment analysis to study how market events affect stock prices.
