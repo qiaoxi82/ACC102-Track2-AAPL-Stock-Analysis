@@ -32,7 +32,7 @@ This project analyzes historical price trends, volatility, and moving averages o
    ```bash
    pip install -r requirements.txt
 ## 6. Product Link / Demo
-- **GitHub Repository**:
+- **GitHub Repository**:https://github.com/qiaoxi82/ACC102-Track2-AAPL-Stock-Analysis
 - **Demo Video**:
 
 ## 7. Limitations & Next Steps
